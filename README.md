@@ -64,3 +64,6 @@ The primary call to action is"
 Secondary CTAs include:
 - **"Choose a Difficulty"** - allowing users to play puzzles at their preferred level (Easy, Medium, Hard, Expert).
 - **"Track You Streak"** - encouraging repeat visitis through progress tracking (planned future feature).
+
+## User Experience
+SudoLogic was designed with a user-centred approach to ensure an engaging, accessible, and intuitive Sudoku experience. By following Jesse Jame Garrett's Five Planes of UX - **Strategy, Scope, Structure, Skeleton, and Surface** i the design and functionality of the site were carefully planned and executed to meet both the user and the business goals.
