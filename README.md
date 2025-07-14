@@ -30,8 +30,8 @@ Visit the website: [SudoLogic]()
 - [Project Goals](#project-goals)
   - [Business Goals](#business-goals)
   - [Call to Action (CTA)](#call-to-action-cta)
-- [User Experience (UX)](#)
-  - [User Goals](#)
+- [User Experience (UX)](#user-experience-ux)
+  - [User Goals](#user-goals)
   - [User Stories](#)
   - [Site Owner Goals](#)
   - [Design Requirements](#)
@@ -65,5 +65,17 @@ Secondary CTAs include:
 - **"Choose a Difficulty"** - allowing users to play puzzles at their preferred level (Easy, Medium, Hard, Expert).
 - **"Track You Streak"** - encouraging repeat visitis through progress tracking (planned future feature).
 
-## User Experience
+## User Experience (UX)
 SudoLogic was designed with a user-centred approach to ensure an engaging, accessible, and intuitive Sudoku experience. By following Jesse Jame Garrett's Five Planes of UX - **Strategy, Scope, Structure, Skeleton, and Surface** i the design and functionality of the site were carefully planned and executed to meet both the user and the business goals.
+
+### User Goals
+At the Strategy Plane, I focused on identifying and prioritising the core needs of our target users to ensure the app delivers a purposeful and engaging experience. These key goals include:
+- Pay Sudoku easily on any device.
+- Choose between a Daily Challenge or a new Random Puzzle.
+- Access clear instructions both before and during gameplay.
+- Use intuitive controls to input, erase, or pencil in numbers.
+- Recieve optional feedback on mistakes or check answers manually.
+- Track daily puzzle streaks and time-based performance.
+- Save game progress automatically and resume later.
+- Share results and celebrate completion with animations.
+- Enjoy a fun and frustration-free experience with accessibility features.
