@@ -13,8 +13,18 @@
 
 The app is aimed at a wide audience, including casual gamers, puzzle enthusiasts, and learners seekig to improve their logical thinking skills. The intuitive mobile-first layout ensures a seamless experience across all devices, while smart gameplay features such as error checking, hint mode, and daily progress tracking elevate it beyond basic web sudoku clones.
 
+### Site Preview
+_A full preview of the final design will be added here once development is complete._
+
+_This section will include:_
+
+_Screenshots of the live site on mobile, tablet, and desktop_
+
+_A responsive mockup image showing the site across multiple devices
+
 ## Table fo Contents
 - [Project Overview](#project-overview)
+  - [Site Preview](#site-preview)
 - [Project Goals](#)
 - [User Experience (UX)](#)
   - [User Stories](#)
