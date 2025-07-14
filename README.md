@@ -45,3 +45,19 @@ Visit the website: [SudoLogic]()
 - [Deployment](#)
 - [Credits](#)
 - [Acknowledgements](#)
+
+## Project Goals
+The goal of **SudoLogic** is to provide a clean, distraction-free online platform where users of all ages can enjoy solving Sudoku puzzles. The site follows a mobile-first design philosophy to ensure maximum accessibility and ease of use across all devices.
+
+### Business Goals
+- Offer a free, high-quality Sudoku experience to attract and retain users.
+- Encourage daily engagement through a new daily puzzles and user streak tracking.
+- Establish the project as a portfolio-worthy demonstration of frontend development, responsive design, and user-centered thinking.
+
+### Call to Action (CTA)
+The primary call to action is" 
+**"Play Today's Puzzle"** - prominently displayed on the homepage to encourage immmediate interaction with the latest Sudoku game.
+
+Secondary CTAs include:
+- **"Choose a Difficulty"** - allowing users to play puzzles at their preferred level (Easy, Medium, Hard, Expert).
+- **"Track You Streak"** - encouraging repeat visitis through progress tracking (planned future feature).
