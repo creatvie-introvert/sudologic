@@ -22,6 +22,8 @@ _Screenshots of the live site on mobile, tablet, and desktop_
 
 _A responsive mockup image showing the site across multiple devices
 
+Visit the website: [SudoLogic]()
+
 ## Table fo Contents
 - [Project Overview](#project-overview)
   - [Site Preview](#site-preview)
