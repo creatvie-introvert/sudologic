@@ -33,6 +33,7 @@ Visit the website: [SudoLogic]()
 - [User Experience (UX)](#user-experience-ux)
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
+  - [User Journey Overview](#user-journey-overview)
   - [Site Owner Goals](#site-owner-goals)
   - [Design Requirements](#design-requirements)
 - [Design Process](#)
@@ -113,6 +114,15 @@ User stories are fully detailed on the [GitHub Project Board](https://github.com
 - As a user, I want the interface to include accessibility options so I can play regardless of my needs.
 - As a user, I want to recieve confirmation before resetting or starting a new game so I don't accidentally lose my progress.
 - As a user, I want to contact support or provide feedback so I can get help or suggest improvements.
+
+### User Journey Overview
+At the Structure Plane, I planned clear and purposeful flow from start to finish, shaped around engagement, simplicity, and flow:
+1. User lands on the homepage and selects either the Daily Puzzle or a Random Puzzle.
+2. If a Random Puzzle is selected, they choose a difficulty level.
+3. The game board loads with controls for pencil mode, hints, timer, and error feeedback.
+4. Users can pause, reset, or undo actions during gameplay.
+5. Upon completion, a celebration animation is triggered and results can be shared.
+6. Progress is autosaved, and returning users can resume or start a new game.
 
 ### Site Owner Goals
 SudoLogic was designed to meet the project criteria for a professional-grade front-end portfolio piece. At the strategy level, the project aims to:
