@@ -148,4 +148,6 @@ Rooted in the skeleton and surface planes, the following design decisions were m
 - **Touch-Friendly Interactions**: Designed with large tap targets and adequate spacing for mobile users.
 - **Accessibility Enhancements**: Includes logical tab order, aria labels, screen reader support, focus outlines, and support for prefers-reduced-motion.
 
+*Relevant wireframes and user flows can be found in the [UX Articts Folder](docs/ux-artifacts)*
+
 By carefully considering all five planes SudoLogic aims to provide a seamless, enjoyable puzzle experience that balances functionality with emotional satsfaction.
