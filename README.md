@@ -33,8 +33,8 @@ Visit the website: [SudoLogic]()
 - [User Experience (UX)](#user-experience-ux)
   - [User Goals](#user-goals)
   - [User Stories](#user-stories)
-  - [Site Owner Goals](#)
-  - [Design Requirements](#)
+  - [Site Owner Goals](#site-owner-goals)
+  - [Design Requirements](#design-requirements)
 - [Design Process](#)
   - [Wireframes](#)
   - [Colour Scheme](#)
@@ -122,3 +122,20 @@ SudoLogic was designed to meet the project criteria for a professional-grade fro
 - Include a GitHub Project Board with full user stoories and workflow.
 - Allow for feature expansion in future development phases (e.g. user profiles, stats dashboard, or leaderboard).
 - Ensure accessibility compliance to provide an inclusive experience for all users.s, or saved stats.
+
+### Design Requirements
+Rooted in the skeleton and surface planes, the following design decisions were made to fulfil the needs identified in earlier phases:
+- **Mobile-First Layout**: Optimised for touch interaction and responsive across all screen sizes.
+- **Minimalist UI**: The Sudoku board remains central, with a clean distraction-free design.
+- **Colour & Typography**: Accessible contrast levels, scalable font sizes, and consistent iconography.
+- **Layout Consistency**: Familiar UI patterns, such as top navigation and sticky controls.
+- **Feedback & Animation**: Micro-interactions on input, animated celebrations on completion.
+- **Content Architecture**: Logical grouping of UI controls (e.g., hints, timer, reset, pencil mode).
+- **Accessibility Standards**: WCAG-aligned features to ensure inclusive access.
+- **Grid System & Layout Strategy**: Custom CSS grid is used to build a precise and consistent layout.
+- **User Feedback Machanisms**: Visual cues such as highlights, hover states, disabled buttons, and confirmation modals guide the user experience.
+- **Game Board Design**: Features include bold 3x3 sectioning, dynamic styling on input, and intuitive interaction zones.
+- **Touch-Friendly Interactions**: Designed with large tap targets and adequate spacing for mobile users.
+- **Accessibility Enhancements**: Includes logical tab order, aria labels, screen reader support, focus outlines, and support for prefers-reduced-motion.
+
+By carefully considering all five planes SudoLogic aims to provide a seamless, enjoyable puzzle experience that balances functionality with emotional satsfaction.
