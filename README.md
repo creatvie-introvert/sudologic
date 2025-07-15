@@ -84,22 +84,22 @@ At the Strategy Plane, I focused on identifying and prioritising the core needs 
 User stories are fully detailed on the [GitHub Project Board](https://github.com/users/creatvie-introvert/projects/11/views/1), and have been written using a user-centred desgn approach aligned with the UX Strategy and Scope Planes.
 
 **New and First-Time Users**
-- As a new user, I want tp choose between a Daily Puzzle and a Random Puzzle so I can get started quickly.
+- As a new user, I want to choose between a Daily Puzzle and a Random Puzzle so I can get started quickly.
 - As a user, I want to view clear instructions before or during the game so I can learn how to play.
 - As a user, I want to select a difficulty level when starting a new puzzle so I can play at my preferred challenge level.
-- As a user, I want the interface tp be intuitive abd responsive so I can play comfortably on any device.
+- As a user, I want the interface to be intuitive and responsive so I can play comfortably on any device.
 
 **During Gameplay**
-- As a user, I want tp input numbers and use pencil marks so I can keep track of possible solutions.
+- As a user, I want to input numbers and use pencil marks so I can keep track of possible solutions.
 - As a user, I want to toggle pencil mode so I can switch between notes and final answers.
 - As a user, I want to undo, redo, or reset the puzzle so I can fix mistakes or start fresh.
 - As a user, I want to request a hint so I can get help if I'm stuck.
-- As a user, I want to toggle error highlighting so I can. choose whether or not to see mistakes as I go.
-- As a user, I want to check my answers manually so I can verify them if error highlighting is turned off.
-- As a user, I want to clear a single cell so I can Update my inputs precisely.
+- As a user, I want to toggle error highlighting so I can choose whether or not to see mistakes as I go.
+- As a user, I want to check my answers manually so I can verify them, if error highlighting is turned off.
+- As a user, I want to clear a single cell so I can update my inputs precisely.
 - As a user, I want a timer to track how long I've been playing so I can measure my performance.
-- As a user, I want the timer to pause if I leave the page or view the instructions so mu time stays accurate.
-- As a user, I want tp access instructions during gameplay so I can get help if I forget something.
+- As a user, I want the timer to pause if I leave the page or view the instructions so my time stays accurate.
+- As a user, I want to access instructions during gameplay so I can get help if I forget something.
 
 **After Gameplay**
 - As a user, I want to see a celebration animation when I complete a puzzle so I feel rewarded.
@@ -107,8 +107,8 @@ User stories are fully detailed on the [GitHub Project Board](https://github.com
 - As a user, I want to share my results so I can celebrate or compete with friends.
 
 **Returning Users and Long-Term Use**
-- As a user, I want the game to autosave so II can return to it later without losing progress.
-- As a user, I wan tp ttrack my daily streak so I stay motivated to play regularly.
+- As a user, I want the game to autosave so I can return to it later without losing progress.
+- As a user, I want to track my daily streak so I stay motivated to play regularly.
 - As a user, I want a setting panel so I can control features like sound, contrast, or input modes.
 - As a user, I want the interface to include accessibility options so I can play regardless of my needs.
 - As a user, I want to recieve confirmation before resetting or starting a new game so I don't accidentally lose my progress.
