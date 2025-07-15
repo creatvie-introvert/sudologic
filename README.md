@@ -113,3 +113,14 @@ User stories are fully detailed on the [GitHub Project Board](https://github.com
 - As a user, I want the interface to include accessibility options so I can play regardless of my needs.
 - As a user, I want to recieve confirmation before resetting or starting a new game so I don't accidentally lose my progress.
 - As a user, I want to contact support or provide feedback so I can get help or suggest improvements.
+
+### Site Owner Goals
+SudoLogic was designed to meet the following goals, aligned wuth the UX Strategy and Scope Planes:
+- Deliver a polished, mobile-first web app showcasing strong front-end development and UX design skills.
+- Provide a intuitive and engaging gameplay that reflects real-word Sudoku use cases.
+- Fulfil the standard project requirements for an interactive front-end project, including:
+  - Clear planning and structure.
+  - Full set of user stories with acceptance criteria and tasks.
+  - Responsive design and accessibility considerations.
+  - Organised project management through a GitHub Project Board.
+- Lay the foundation for future feature expansion (e.g., user accounts, leaderboards, or saved stats).
