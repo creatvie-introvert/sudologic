@@ -9,9 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Project Overview
-**SudoLogic** is a mobile-first online platform where users can play Sudoku puzzles of varying difficulties - including *Easy*, *Medium*, *Hard*, and *Expert* levels. Designed for accessibility and engagemnet, the platform offer both a classic experience and a *Daily Puzzle* mode that refreshes every 24 hours, encouraging users to return regularly and build a daily streak.
+**SudoLogic** is a mobile-first online platform where users can play Sudoku puzzles of varying difficulties - including *Easy*, *Medium*, *Hard*, and *Expert* levels. Designed for accessibility and engagement, the platform offer both a classic experience and a *Daily Puzzle* mode that refreshes every 24 hours, encouraging users to return regularly and build a daily streak.
 
-The app is aimed at a wide audience, including casual gamers, puzzle enthusiasts, and learners seekig to improve their logical thinking skills. The intuitive mobile-first layout ensures a seamless experience across all devices, while smart gameplay features such as error checking, hint mode, and daily progress tracking elevate it beyond basic web sudoku clones.
+The app is aimed at a wide audience, including casual gamers, puzzle enthusiasts, and learners seeking to improve their logical thinking skills. The intuitive mobile-first layout ensures a seamless experience across all devices, while smart gameplay features such as error checking, hint mode, and daily progress tracking elevate it beyond basic web sudoku clones.
 
 ### Site Preview
 _A full preview of the final design will be added here once development is complete._
@@ -55,19 +55,18 @@ The goal of **SudoLogic** is to provide a clean, distraction-free online platfor
 
 ### Business Goals
 - Offer a free, high-quality Sudoku experience to attract and retain users.
-- Encourage daily engagement through a new daily puzzles and user streak tracking.
-- Establish the project as a portfolio-worthy demonstration of frontend development, responsive design, and user-centered thinking.
+- Encourage daily engagement through new daily puzzles and user streak tracking.
+- Establish the project as a portfolio-worthy demonstration of frontend development, responsive design, and user-centred thinking.
 
 ### Call to Action (CTA)
-The primary call to action is" 
-**"Play Today's Puzzle"** - prominently displayed on the homepage to encourage immmediate interaction with the latest Sudoku game.
+The primary call to action is **"Play Today's Puzzle"** - prominently displayed on the homepage to encourage immediate interaction with the latest Sudoku game.
 
 Secondary CTAs include:
 - **"Choose a Difficulty"** - allowing users to play puzzles at their preferred level (Easy, Medium, Hard, Expert).
-- **"Track You Streak"** - encouraging repeat visitis through progress tracking (planned future feature).
+- **"Track You Streak"** - encouraging repeat visits through progress tracking (planned future feature).
 
 ## User Experience (UX)
-SudoLogic was designed with a user-centred approach to ensure an engaging, accessible, and intuitive Sudoku experience. By following Jesse Jame Garrett's Five Planes of UX - **Strategy, Scope, Structure, Skeleton, and Surface** i the design and functionality of the site were carefully planned and executed to meet both the user and the business goals.
+SudoLogic was designed with a user-centred approach to ensure an engaging, accessible, and intuitive Sudoku experience. By following Jesse Jame Garrett's Five Planes of UX - **Strategy, Scope, Structure, Skeleton, and Surface** the design and functionality of the site were carefully planned and executed to meet both the user and the business goals.
 
 ### User Goals
 At the Strategy Plane, I focused on identifying and prioritising the core needs of our target users to ensure the app delivers a purposeful and engaging experience. These key goals include:
@@ -75,7 +74,7 @@ At the Strategy Plane, I focused on identifying and prioritising the core needs 
 - Choose between a Daily Challenge or a new Random Puzzle.
 - Access clear instructions both before and during gameplay.
 - Use intuitive controls to input, erase, or pencil in numbers.
-- Recieve optional feedback on mistakes or check answers manually.
+- Receive optional feedback on mistakes or check answers manually.
 - Track daily puzzle streaks and time-based performance.
 - Save game progress automatically and resume later.
 - Share results and celebrate completion with animations.
@@ -143,11 +142,11 @@ Rooted in the skeleton and surface planes, the following design decisions were m
 - **Content Architecture**: Logical grouping of UI controls (e.g., hints, timer, reset, pencil mode).
 - **Accessibility Standards**: WCAG-aligned features to ensure inclusive access.
 - **Grid System & Layout Strategy**: Custom CSS grid is used to build a precise and consistent layout.
-- **User Feedback Machanisms**: Visual cues such as highlights, hover states, disabled buttons, and confirmation modals guide the user experience.
+- **User Feedback Mechanisms**: Visual cues such as highlights, hover states, disabled buttons, and confirmation modals guide the user experience.
 - **Game Board Design**: Features include bold 3x3 sectioning, dynamic styling on input, and intuitive interaction zones.
 - **Touch-Friendly Interactions**: Designed with large tap targets and adequate spacing for mobile users.
 - **Accessibility Enhancements**: Includes logical tab order, aria labels, screen reader support, focus outlines, and support for prefers-reduced-motion.
 
-*Relevant wireframes and user flows can be found in the [UX Articts Folder](docs/ux-artifacts)*
+*Relevant wireframes and user flows can be found in the [UX Artefact Folder](docs/ux-artefact)*
 
-By carefully considering all five planes SudoLogic aims to provide a seamless, enjoyable puzzle experience that balances functionality with emotional satsfaction.
+By carefully considering all five planes SudoLogic aims to provide a seamless, enjoyable puzzle experience that balances functionality with emotional satisfaction.
