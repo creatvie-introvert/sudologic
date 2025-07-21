@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="docs/icon-only-logo.png" alt="SudoLogic Logo" width="200">
-</p>
-
-<h1 align="center">SudoLogic</h1>
+![SudoLogic Logo](docs/icon-only-logo.png)
+# SudoLogic
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,7 +60,9 @@ The primary call to action is **"Play Today's Puzzle"** - prominently displayed 
 
 Secondary CTAs include:
 - **"Choose a Difficulty"** - allowing users to play puzzles at their preferred level (Easy, Medium, Hard, Expert).
-- **"Track You Streak"** - encouraging repeat visits through progress tracking (planned future feature).
+- **"Track Your Streak"** - visually reinforces player consistency through a celebratory modal at game game start.
+
+[Back to top](#sudologic)
 
 ## User Experience (UX)
 SudoLogic was designed with a user-centred approach to ensure an engaging, accessible, and intuitive Sudoku experience. By following Jesse Jame Garrett's Five Planes of UX - **Strategy, Scope, Structure, Skeleton, and Surface** the design and functionality of the site were carefully planned and executed to meet both the user and the business goals.
@@ -116,12 +115,13 @@ User stories are fully detailed on the [GitHub Project Board](https://github.com
 
 ### User Journey Overview
 At the Structure Plane, I planned clear and purposeful flow from start to finish, shaped around engagement, simplicity, and flow:
-1. User lands on the homepage and selects either the Daily Puzzle or a Random Puzzle.
-2. If a Random Puzzle is selected, they choose a difficulty level.
-3. The game board loads with controls for pencil mode, hints, timer, and error feeedback.
-4. Users can pause, reset, or undo actions during gameplay.
-5. Upon completion, a celebration animation is triggered and results can be shared.
-6. Progress is autosaved, and returning users can resume or start a new game.
+1. User lands on the homepage and selects either the **Daily Puzzle** or a **Random Puzzle**.
+2. If the user selects the **Daily Puzzle** and has an active streak, a **Daily Streak Modal** appears, highlighting their current streak and motivating continued engagement. 
+3. If a Random Puzzle is selected, they choose a difficulty level.
+4. The game board loads with controls for pencil mode, hints, timer, and error feeedback.
+5. Users can pause, reset, or undo actions during gameplay.
+6. Upon completion, a celebration animation is triggered and results can be shared.
+7. Progress is autosaved, and returning users can resume or start a new game.
 
 ### Site Owner Goals
 SudoLogic was designed to meet the project criteria for a professional-grade front-end portfolio piece. At the strategy level, the project aims to:
@@ -150,3 +150,90 @@ Rooted in the skeleton and surface planes, the following design decisions were m
 *Relevant wireframes and user flows can be found in the [UX Artefact Folder](docs/ux-artefact)*
 
 By carefully considering all five planes SudoLogic aims to provide a seamless, enjoyable puzzle experience that balances functionality with emotional satisfaction.
+
+[Back to top](#sudologic)
+
+## Design Process
+The design process for SudoLogic was built around a mobiole-first, accessibility-conscious philosophy. Every visual and interaction decision was shaped to balance usability, aesthetic clarity, and performance across screen izes. Following the Five Planes of UX - this section documents decisions made thruoghout the design lfecycle, including early sketches, wireframes, interface styling, and interaction feedback mechanisms.
+
+### Wireframes
+To ensure clarity and usablity from the outset, I created mobile-first low-fidelity wireframes for the three breakpoints:
+  - **Mobile View**
+
+  <img src="docs/ux-artefact/mobile.png" alt="Mobile Wireframes" width="600">
+
+  - **Tablet View**
+
+  <img src="docs/ux-artefact/tablet.png" alt="Tablet Wireframes" width="600">
+
+  - **Desktop View**
+
+  <img src="docs/ux-artefact/desktop.png" alt="Desktop Wireframes" width="600">
+
+These wireframes capture the core structure, layout hierachy, and functional zones such as modals, game board interaction areas, and controls.
+
+Full-resolution versions are availble in the *[UX Artefact Folder](docs/ux-artefact)*.
+
+### Colour Scheme
+SudoLogic uses a dark and light theme switcher for improved accessibility and user preference:
+  - **Light Mode**: Clean and minimal, ideal for bright environments.
+  - **Dark Mode**: Designed with a high-contrast layout to reduce eye strain during extended play.
+Accent colours were used to indicate game ststes meet WCAFG contrast guidelines.
+
+<img src="docs/color-palette.png" alt="Colour Scheme" width="400">
+
+**Light Theme**
+|Colour Name|Hex Code|Usage|
+|-----------|--------|-----|
+|White|#FFFFFF|Background|
+|Royal Blue|#2A6BEF|Primary action|
+|Veronica|#874BFF|Secondary action|
+|Eerie Black|#1B1B1B|Main text|
+|Cadet Grey|#9CA3AF|Secondary/muted text|
+|Ghost White|#F3F6FF|Card/overlay backgrounds|
+|French Grey|#D1D5DB|Borders|
+|Byzantine Blue|#1F5AE0|Button hover|
+|Violet Blue|#174BCC|Button pressed|
+|Platinum|#E0E0E0|Disabled background|
+|Dim Grey|#636363|Disabled text|
+|Azure|#3B82F6|Input focused state|
+|Red (CMYK)|#E61414|Error state|
+
+**Dark Theme**
+|Colour Name|Hex Code|Usage|
+|-----------|--------|-----|
+|Rich Black|#121B26|Background|
+|Chefchaouen Blue|#4C8BF5|Primary action|
+|Tropical Indigo|#A377FF|Secondary action|
+|Lavender|#DDE6FF|Main text|
+|Lavender (Muted)|#9CA3AF|Muted text|
+|Marian Blue|#364181|Surface backgrounds|
+|Charcoal|#374151|Borders|
+|Cornflower Blue|#5590FF|Button hover|
+|Blue (Crayola)|#3775FF|Button pressed|
+|Silver|#A6A6A6|Disabled background|
+|Jet|#A6A6A6|Disabled text|
+|Ruddy Blue|#60A5FA|Input focused state|
+|Bittersweet|#F7555E|Error state|
+
+### Typography
+SudoLogic uses the **Poppins** typefacwe for all content, chosen for its readability and modern aesthetic. All text is set using rem units to ensure scalable, responsive, and accessible typorgraphy.
+
+|Style Name|Font Size (Mobile)|Font Size (Tablet)|Font Size (Desktop)|
+|----------|------------------|------------------|-------------------|
+|page-heading|40px|48px|56px|
+|section-heading|32px|40px|48px|
+|subheading|20px|24px|28px|
+|paragraph|16px|19px|20px|
+|button|18px|20px|22px|
+|caption|14px|16px|18px|
+
+<img src="docs/typography.png" alt="Colour Scheme" width="600">
+
+### Imagery
+Imagery was kept to a minimum to maintain focus on the puzzle. Instead, visual interest is created through:
+  - Miicro-interactions and animations
+  - Iconography for buttons and controls
+  - SVG-based elements for performance and scalability
+
+[Back to top](#sudologic)
